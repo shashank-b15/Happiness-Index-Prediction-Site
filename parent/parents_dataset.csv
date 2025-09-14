@@ -1,0 +1,301 @@
+,Quality,Teacher_Quality,Books,Classroom,Food,Homework,Understanding_subs,Meetings,Continue_school,Happiness
+0,1-3,Poorly,Never,clean,1-3,yes,sometimes,quarterly,Yes,8.66275348632939
+0,4-7,Moderately,Sometimes,not bad,4-7,no,no,quarterly,no,5.6742243190028585
+0,4-7,Poorly,Never,not bad,4-7,no,no,half yearly,Yes,3.3532060394318535
+0,1-3,Highly,Always,clean,8-10,not always,sometimes,annually,need to think,3.3605190681534785
+0,8-10,Highly,Always,not bad,1-3,not always,no,half yearly,need to think,5.760155794148485
+0,1-3,Moderately,Sometimes,dirty,1-3,no,no,annually,no,6.821652736386207
+0,8-10,Moderately,Sometimes,not bad,4-7,not always,no,annually,need to think,8.28858596706381
+0,1-3,Moderately,Never,dirty,1-3,yes,sometimes,half yearly,need to think,1.7093940573683475
+0,4-7,Poorly,Always,not bad,8-10,not always,sometimes,annually,Yes,8.245440677596743
+0,8-10,Poorly,Always,not bad,4-7,not always,yes,annually,no,5.129360942131154
+0,1-3,Moderately,Never,not bad,8-10,yes,yes,half yearly,Yes,8.15535773007425
+0,4-7,Moderately,Never,dirty,4-7,no,yes,quarterly,no,9.277797396445832
+0,4-7,Poorly,Always,dirty,8-10,not always,sometimes,quarterly,Yes,2.9369335444240208
+0,4-7,Highly,Never,clean,8-10,no,sometimes,annually,Yes,8.052449275853531
+0,8-10,Highly,Never,clean,8-10,yes,no,quarterly,no,6.993759226938427
+0,4-7,Highly,Sometimes,clean,8-10,no,yes,quarterly,no,2.9878599327364905
+0,4-7,Poorly,Always,not bad,4-7,not always,yes,quarterly,need to think,1.9196917824995348
+0,1-3,Poorly,Sometimes,dirty,1-3,no,no,annually,no,2.9320411553283683
+0,1-3,Highly,Always,dirty,1-3,yes,yes,annually,need to think,7.251725304629449
+0,8-10,Highly,Always,not bad,1-3,yes,yes,annually,Yes,5.231232165956804
+0,1-3,Poorly,Always,clean,8-10,not always,yes,quarterly,need to think,9.780209621034558
+0,8-10,Poorly,Sometimes,dirty,4-7,not always,yes,half yearly,Yes,7.435551882590753
+0,1-3,Moderately,Sometimes,not bad,4-7,not always,sometimes,half yearly,Yes,2.106090968159205
+0,4-7,Poorly,Never,dirty,4-7,yes,no,half yearly,no,9.913324347311038
+0,1-3,Poorly,Never,not bad,4-7,no,yes,annually,need to think,8.120221690429656
+0,1-3,Highly,Sometimes,not bad,1-3,no,sometimes,annually,Yes,2.926366253245915
+0,4-7,Moderately,Always,not bad,8-10,not always,no,quarterly,need to think,5.219336358559488
+0,8-10,Moderately,Sometimes,clean,1-3,no,yes,half yearly,need to think,3.179764994634615
+0,4-7,Poorly,Sometimes,not bad,4-7,not always,no,quarterly,need to think,7.180288480611204
+0,4-7,Moderately,Sometimes,clean,8-10,no,sometimes,half yearly,need to think,3.4342256127616695
+0,4-7,Highly,Always,dirty,4-7,not always,sometimes,quarterly,Yes,2.9024152462738355
+0,8-10,Poorly,Never,dirty,8-10,not always,no,annually,Yes,8.647472947150606
+0,1-3,Highly,Sometimes,dirty,1-3,not always,no,annually,no,2.3787559706014187
+0,4-7,Poorly,Never,dirty,1-3,no,yes,annually,Yes,7.53255944718582
+0,4-7,Highly,Never,clean,8-10,not always,no,annually,need to think,1.91518217529063
+0,1-3,Poorly,Always,clean,1-3,no,yes,quarterly,need to think,3.9782875804915365
+0,8-10,Poorly,Sometimes,not bad,4-7,not always,yes,quarterly,no,8.30920674432016
+0,8-10,Highly,Always,clean,8-10,yes,no,half yearly,Yes,2.300392973713735
+0,1-3,Moderately,Always,dirty,1-3,no,yes,quarterly,need to think,8.591710910185462
+0,4-7,Poorly,Never,dirty,1-3,yes,sometimes,annually,no,3.31570737350686
+0,1-3,Moderately,Always,clean,4-7,not always,no,annually,need to think,9.484931943398
+0,1-3,Moderately,Always,clean,8-10,yes,sometimes,annually,Yes,2.3485606736238154
+0,1-3,Moderately,Never,clean,8-10,not always,sometimes,half yearly,no,1.5743149660010058
+0,4-7,Poorly,Sometimes,not bad,1-3,not always,sometimes,annually,need to think,4.157125651524536
+0,4-7,Poorly,Sometimes,not bad,8-10,not always,no,annually,need to think,4.638831729716255
+0,4-7,Poorly,Always,clean,8-10,not always,yes,half yearly,no,6.174426843910748
+0,1-3,Moderately,Never,clean,8-10,not always,yes,annually,need to think,2.022858659980649
+0,4-7,Highly,Never,not bad,8-10,not always,yes,quarterly,no,9.291031978200069
+0,1-3,Poorly,Never,clean,4-7,yes,sometimes,quarterly,Yes,8.556621188387277
+0,8-10,Highly,Sometimes,dirty,1-3,yes,sometimes,quarterly,need to think,7.146426945492079
+0,1-3,Moderately,Sometimes,clean,1-3,yes,yes,half yearly,Yes,9.68278723368866
+0,1-3,Moderately,Never,clean,1-3,yes,yes,quarterly,no,4.530033582651704
+0,4-7,Moderately,Sometimes,dirty,1-3,no,no,quarterly,no,9.211593240376065
+0,4-7,Poorly,Never,not bad,8-10,no,yes,half yearly,Yes,8.232277267132378
+0,8-10,Moderately,Always,dirty,8-10,yes,yes,annually,Yes,9.915834299667518
+0,4-7,Highly,Never,not bad,8-10,not always,sometimes,quarterly,need to think,9.11326477223717
+0,1-3,Poorly,Never,dirty,1-3,yes,no,half yearly,need to think,4.2011380818597415
+0,4-7,Moderately,Never,clean,4-7,no,sometimes,annually,need to think,4.687328180602402
+0,8-10,Moderately,Never,not bad,8-10,yes,no,quarterly,no,3.8691566872442187
+0,4-7,Moderately,Never,not bad,8-10,yes,yes,annually,no,6.198091453026619
+0,1-3,Moderately,Never,not bad,8-10,not always,no,annually,Yes,3.2863501091885547
+0,4-7,Moderately,Always,clean,1-3,no,yes,annually,Yes,5.631440554290412
+0,4-7,Moderately,Always,not bad,4-7,yes,yes,half yearly,need to think,8.30019193459767
+0,1-3,Moderately,Always,dirty,8-10,yes,sometimes,half yearly,no,5.692670353121735
+0,8-10,Poorly,Never,clean,4-7,not always,sometimes,half yearly,Yes,2.674407306747925
+0,4-7,Moderately,Always,clean,4-7,not always,no,annually,need to think,6.992391302539878
+0,4-7,Moderately,Sometimes,not bad,1-3,no,yes,half yearly,Yes,7.7796998112135824
+0,4-7,Highly,Never,clean,8-10,yes,no,quarterly,no,2.4277422395708426
+0,8-10,Highly,Sometimes,not bad,8-10,not always,yes,half yearly,need to think,4.54323274434773
+0,4-7,Highly,Never,not bad,4-7,yes,yes,annually,no,1.4014796982469098
+0,8-10,Highly,Sometimes,not bad,8-10,not always,no,annually,no,4.023732478425678
+0,4-7,Moderately,Always,clean,8-10,no,no,half yearly,need to think,6.846270032245792
+0,4-7,Poorly,Always,not bad,4-7,not always,no,half yearly,need to think,7.51607737540909
+0,1-3,Highly,Always,not bad,8-10,not always,no,half yearly,no,5.990459675926623
+0,1-3,Poorly,Sometimes,clean,8-10,not always,yes,half yearly,Yes,3.1535415005468352
+0,4-7,Highly,Always,not bad,8-10,not always,no,annually,no,7.640943948323311
+0,4-7,Moderately,Never,not bad,1-3,yes,sometimes,quarterly,Yes,2.9981243417822254
+0,4-7,Poorly,Never,dirty,4-7,not always,sometimes,quarterly,need to think,9.50613437619982
+0,1-3,Highly,Never,clean,4-7,not always,no,quarterly,need to think,7.295321167371423
+0,8-10,Poorly,Sometimes,clean,4-7,no,sometimes,half yearly,Yes,9.196857966168563
+0,4-7,Highly,Never,clean,1-3,no,sometimes,quarterly,Yes,5.126931633052093
+0,1-3,Poorly,Sometimes,not bad,1-3,yes,yes,annually,need to think,6.467360350809972
+0,1-3,Moderately,Always,clean,8-10,not always,no,annually,Yes,3.3145388165859795
+0,1-3,Highly,Always,not bad,8-10,no,no,annually,no,8.275376670031463
+0,1-3,Moderately,Always,dirty,4-7,no,no,annually,no,4.9362196133532965
+0,8-10,Moderately,Sometimes,dirty,8-10,not always,sometimes,quarterly,Yes,2.938841406210145
+0,8-10,Moderately,Sometimes,clean,1-3,not always,no,half yearly,Yes,9.659006992463807
+0,8-10,Moderately,Never,dirty,8-10,no,sometimes,annually,need to think,1.179172306144817
+0,4-7,Moderately,Always,dirty,4-7,not always,sometimes,half yearly,Yes,5.808506890522602
+0,1-3,Poorly,Always,clean,4-7,not always,no,half yearly,Yes,1.0557834189053505
+0,4-7,Moderately,Sometimes,dirty,1-3,no,no,half yearly,no,3.7697898580375413
+0,8-10,Highly,Always,dirty,1-3,no,no,annually,no,7.7908610798515845
+0,1-3,Poorly,Always,not bad,4-7,no,sometimes,quarterly,need to think,7.020544934360878
+0,1-3,Highly,Never,clean,4-7,not always,sometimes,annually,need to think,2.2918016983457616
+0,4-7,Highly,Never,not bad,4-7,no,sometimes,quarterly,no,4.346206859852377
+0,4-7,Highly,Never,dirty,4-7,yes,sometimes,annually,Yes,8.202852999579623
+0,8-10,Poorly,Never,clean,8-10,no,sometimes,half yearly,need to think,7.546164911699227
+0,8-10,Poorly,Always,dirty,4-7,yes,yes,half yearly,no,9.057165376979551
+0,8-10,Poorly,Never,clean,8-10,yes,no,quarterly,Yes,7.296101334404245
+0,4-7,Poorly,Never,not bad,8-10,no,sometimes,half yearly,Yes,6.091156436743714
+0,1-3,Poorly,Always,not bad,1-3,yes,sometimes,quarterly,need to think,2.778435097613839
+0,8-10,Highly,Never,dirty,4-7,no,yes,quarterly,no,2.2487438567112377
+0,1-3,Moderately,Never,dirty,8-10,not always,no,quarterly,no,7.927479989150697
+0,8-10,Moderately,Sometimes,clean,8-10,not always,yes,annually,Yes,5.648218210912844
+0,8-10,Highly,Sometimes,clean,8-10,not always,no,quarterly,Yes,7.833127562331855
+0,4-7,Moderately,Sometimes,dirty,8-10,yes,no,quarterly,Yes,3.8802725080969545
+0,4-7,Highly,Always,dirty,1-3,no,no,quarterly,Yes,6.864803795700664
+0,4-7,Highly,Never,not bad,8-10,yes,sometimes,annually,need to think,8.849436549120586
+0,8-10,Moderately,Always,clean,8-10,no,yes,half yearly,no,9.93333493028778
+0,1-3,Poorly,Never,not bad,1-3,no,sometimes,annually,no,4.10946195235832
+0,4-7,Poorly,Always,not bad,1-3,yes,sometimes,quarterly,Yes,4.176746235811575
+0,4-7,Poorly,Never,dirty,8-10,not always,no,half yearly,no,9.329640449329956
+0,8-10,Poorly,Always,not bad,8-10,no,yes,quarterly,Yes,8.825054444963017
+0,4-7,Poorly,Always,not bad,1-3,yes,no,annually,need to think,7.012148534651476
+0,4-7,Highly,Always,dirty,4-7,yes,sometimes,half yearly,need to think,9.863545734264838
+0,8-10,Highly,Always,clean,8-10,not always,yes,half yearly,Yes,7.0524448634024015
+0,8-10,Highly,Sometimes,not bad,8-10,not always,yes,half yearly,no,9.070402276507108
+0,1-3,Moderately,Never,dirty,8-10,no,no,annually,need to think,7.48526009099179
+0,8-10,Highly,Never,dirty,4-7,no,no,quarterly,need to think,5.36394175224663
+0,4-7,Poorly,Never,clean,4-7,yes,no,half yearly,need to think,3.3617477683957913
+0,8-10,Moderately,Always,clean,8-10,no,yes,annually,no,1.468586658383476
+0,1-3,Highly,Sometimes,not bad,8-10,yes,sometimes,half yearly,no,5.58329769513222
+0,1-3,Moderately,Sometimes,clean,8-10,not always,no,annually,no,9.534594806111476
+0,8-10,Highly,Never,dirty,1-3,no,yes,annually,need to think,8.78761627652801
+0,1-3,Moderately,Sometimes,clean,1-3,yes,no,quarterly,Yes,1.9297093661432836
+0,8-10,Highly,Sometimes,clean,4-7,no,sometimes,quarterly,need to think,3.3682558477379114
+0,8-10,Highly,Never,dirty,8-10,not always,no,half yearly,Yes,2.081436229702578
+0,4-7,Moderately,Sometimes,not bad,1-3,no,no,quarterly,need to think,5.88651308058115
+0,4-7,Moderately,Always,dirty,1-3,yes,yes,annually,need to think,4.301422383446374
+0,4-7,Highly,Never,dirty,8-10,not always,no,annually,no,9.618111578092284
+0,4-7,Moderately,Sometimes,not bad,1-3,yes,yes,annually,no,3.5684303662380765
+0,1-3,Highly,Sometimes,not bad,1-3,yes,no,quarterly,no,8.97186622666902
+0,4-7,Highly,Never,clean,4-7,not always,sometimes,quarterly,Yes,4.2930091132570904
+0,4-7,Poorly,Always,not bad,8-10,not always,no,quarterly,need to think,9.739814817701557
+0,4-7,Moderately,Sometimes,not bad,4-7,yes,sometimes,annually,no,7.620363160785936
+0,8-10,Poorly,Never,dirty,4-7,not always,yes,annually,need to think,1.723905364245498
+0,8-10,Poorly,Always,dirty,8-10,no,no,half yearly,no,3.8777265948662807
+0,4-7,Moderately,Never,clean,4-7,no,sometimes,half yearly,no,8.764605987402092
+0,4-7,Poorly,Sometimes,clean,1-3,yes,sometimes,annually,Yes,4.853344109215573
+0,4-7,Moderately,Never,not bad,8-10,no,no,annually,need to think,8.389142485493025
+0,8-10,Poorly,Never,dirty,1-3,not always,yes,half yearly,no,1.937919396185638
+0,4-7,Moderately,Sometimes,clean,1-3,yes,yes,half yearly,Yes,7.24319605847167
+0,1-3,Poorly,Always,not bad,1-3,not always,yes,half yearly,need to think,8.623086262242431
+0,1-3,Poorly,Never,dirty,8-10,yes,yes,annually,need to think,9.410781841548399
+0,8-10,Highly,Sometimes,clean,4-7,not always,sometimes,annually,no,2.57054096790437
+0,4-7,Highly,Always,clean,8-10,no,no,half yearly,no,4.5751307618751955
+0,4-7,Moderately,Sometimes,dirty,1-3,no,sometimes,annually,need to think,2.1587165445359453
+0,4-7,Moderately,Sometimes,dirty,8-10,not always,sometimes,annually,need to think,3.746556847126141
+0,8-10,Poorly,Always,dirty,4-7,not always,no,quarterly,Yes,1.0170130052210216
+0,1-3,Poorly,Sometimes,dirty,1-3,no,sometimes,quarterly,no,5.937423982258254
+0,8-10,Moderately,Always,clean,4-7,no,yes,half yearly,need to think,2.833015369669618
+0,1-3,Highly,Never,clean,1-3,yes,sometimes,quarterly,need to think,4.743158895751754
+0,1-3,Moderately,Never,clean,4-7,not always,yes,annually,no,6.839779256684575
+0,4-7,Highly,Never,dirty,4-7,yes,sometimes,quarterly,Yes,2.1505057346245624
+0,8-10,Moderately,Never,dirty,4-7,not always,no,annually,no,3.266647709260445
+0,4-7,Moderately,Never,dirty,4-7,no,no,quarterly,no,8.536745505663792
+0,4-7,Moderately,Sometimes,not bad,4-7,not always,no,quarterly,no,3.165250671374638
+0,4-7,Poorly,Always,not bad,1-3,yes,yes,half yearly,need to think,7.874727284119391
+0,4-7,Highly,Never,dirty,4-7,not always,no,half yearly,need to think,3.7292219940747096
+0,1-3,Highly,Sometimes,dirty,8-10,not always,sometimes,quarterly,no,6.75633222564106
+0,8-10,Highly,Sometimes,clean,1-3,yes,no,annually,need to think,3.2453980356285723
+0,8-10,Poorly,Never,dirty,8-10,no,yes,quarterly,no,2.1396465670343225
+0,4-7,Poorly,Always,clean,4-7,no,sometimes,half yearly,Yes,7.29336604905528
+0,1-3,Highly,Never,not bad,4-7,no,no,quarterly,need to think,3.4689659045239205
+0,1-3,Moderately,Never,dirty,1-3,no,no,half yearly,need to think,6.1628908407105945
+0,4-7,Highly,Sometimes,clean,4-7,no,no,annually,Yes,7.0673735854486655
+0,4-7,Poorly,Never,not bad,4-7,no,yes,annually,Yes,9.268124717677335
+0,4-7,Moderately,Sometimes,not bad,4-7,not always,yes,half yearly,need to think,3.0405680113607776
+0,1-3,Moderately,Never,not bad,1-3,yes,no,quarterly,need to think,4.618263613983708
+0,4-7,Poorly,Never,clean,1-3,not always,yes,quarterly,Yes,3.7043060421679157
+0,4-7,Moderately,Sometimes,dirty,1-3,no,yes,quarterly,need to think,7.611493994048842
+0,8-10,Poorly,Sometimes,dirty,1-3,not always,yes,annually,no,6.2004860244034
+0,8-10,Highly,Never,dirty,8-10,no,no,half yearly,Yes,6.589666990414486
+0,4-7,Highly,Never,not bad,1-3,yes,no,half yearly,need to think,4.535946633458679
+0,8-10,Poorly,Sometimes,clean,4-7,not always,no,half yearly,no,3.008995987657317
+0,1-3,Moderately,Never,not bad,8-10,yes,yes,annually,Yes,3.902804541069745
+0,4-7,Highly,Sometimes,dirty,4-7,yes,sometimes,half yearly,need to think,9.81744489270399
+0,1-3,Highly,Always,dirty,8-10,yes,no,half yearly,no,3.044162477829568
+0,8-10,Highly,Always,not bad,8-10,not always,no,quarterly,no,3.644159121337854
+0,1-3,Poorly,Never,dirty,4-7,no,no,annually,need to think,4.859637357112552
+0,1-3,Poorly,Always,clean,8-10,not always,no,half yearly,no,5.377474951337347
+0,4-7,Highly,Always,not bad,4-7,no,no,half yearly,Yes,9.72399483180605
+0,8-10,Moderately,Always,clean,8-10,no,no,half yearly,no,7.797311198424144
+0,8-10,Highly,Always,clean,4-7,not always,no,annually,need to think,4.716049003215658
+0,8-10,Highly,Never,clean,8-10,no,no,annually,need to think,8.5016248089369
+0,8-10,Highly,Never,not bad,1-3,no,yes,half yearly,need to think,6.729540070643216
+0,4-7,Highly,Always,dirty,4-7,yes,no,quarterly,no,9.739512232239843
+0,4-7,Moderately,Never,dirty,8-10,no,sometimes,half yearly,no,2.34688288576586
+0,4-7,Poorly,Always,clean,1-3,not always,sometimes,quarterly,Yes,9.20370226289351
+0,8-10,Highly,Always,dirty,8-10,not always,yes,annually,no,1.970586107837927
+0,1-3,Moderately,Never,clean,1-3,yes,no,half yearly,Yes,4.446731804595231
+0,4-7,Highly,Always,not bad,1-3,yes,yes,quarterly,Yes,7.394472444231703
+0,1-3,Poorly,Sometimes,clean,8-10,not always,no,annually,Yes,7.108482312048546
+0,1-3,Poorly,Always,dirty,1-3,yes,yes,annually,need to think,3.3245578110206893
+0,8-10,Poorly,Sometimes,clean,4-7,not always,yes,half yearly,need to think,9.220282807835062
+0,1-3,Poorly,Sometimes,dirty,4-7,yes,no,half yearly,need to think,1.7788185009594626
+0,1-3,Poorly,Sometimes,not bad,8-10,no,yes,annually,need to think,1.7374039679721256
+0,4-7,Moderately,Always,clean,1-3,no,yes,half yearly,no,2.747967689592465
+0,4-7,Poorly,Always,dirty,8-10,no,no,quarterly,Yes,1.0932515430746985
+0,4-7,Highly,Always,not bad,1-3,no,no,quarterly,Yes,4.2754343135525295
+0,1-3,Poorly,Sometimes,dirty,4-7,no,yes,quarterly,no,3.0858440722976725
+0,1-3,Poorly,Never,clean,8-10,yes,no,quarterly,Yes,9.66386211259984
+0,4-7,Highly,Never,not bad,4-7,not always,no,annually,Yes,6.714832296640003
+0,8-10,Highly,Always,not bad,8-10,yes,no,annually,Yes,1.270332217932315
+0,8-10,Highly,Always,not bad,1-3,no,yes,half yearly,no,8.92238941702517
+0,1-3,Highly,Always,not bad,1-3,not always,sometimes,annually,need to think,4.006868547618202
+0,1-3,Highly,Never,clean,1-3,yes,no,annually,need to think,1.4565592975580337
+0,4-7,Highly,Always,clean,4-7,yes,sometimes,annually,no,9.462753901976054
+0,8-10,Poorly,Always,not bad,4-7,yes,no,annually,need to think,3.626344933061098
+0,8-10,Moderately,Always,not bad,8-10,not always,sometimes,half yearly,need to think,8.980918281797758
+0,1-3,Moderately,Sometimes,not bad,8-10,no,sometimes,half yearly,need to think,2.7708385607674924
+0,4-7,Poorly,Always,clean,8-10,yes,no,half yearly,no,3.883132226323056
+0,4-7,Highly,Sometimes,not bad,8-10,not always,no,annually,no,4.951749693904452
+0,1-3,Moderately,Always,clean,8-10,not always,yes,quarterly,no,7.678305820525474
+0,4-7,Moderately,Sometimes,clean,1-3,yes,no,half yearly,need to think,1.2061316265972715
+0,4-7,Moderately,Sometimes,not bad,1-3,yes,no,quarterly,need to think,6.544454098968234
+0,4-7,Moderately,Never,dirty,8-10,no,sometimes,half yearly,need to think,2.965582690359969
+0,4-7,Highly,Never,clean,1-3,not always,yes,quarterly,no,7.7379825193476925
+0,1-3,Moderately,Always,not bad,8-10,yes,yes,annually,no,9.054323806996443
+0,4-7,Poorly,Sometimes,not bad,8-10,yes,yes,quarterly,no,6.1572339393592195
+0,8-10,Highly,Sometimes,dirty,4-7,no,sometimes,annually,no,3.310388051060789
+0,4-7,Poorly,Always,not bad,1-3,not always,sometimes,quarterly,Yes,9.522249251754813
+0,8-10,Highly,Never,not bad,4-7,not always,yes,half yearly,need to think,8.182625369443894
+0,1-3,Highly,Always,not bad,1-3,yes,no,half yearly,no,3.012206923185899
+0,8-10,Highly,Always,dirty,1-3,not always,sometimes,quarterly,need to think,8.507754772460864
+0,8-10,Poorly,Always,dirty,8-10,not always,no,annually,no,6.671795576366422
+0,8-10,Poorly,Sometimes,clean,1-3,no,sometimes,annually,need to think,7.637680363729615
+0,1-3,Moderately,Always,clean,8-10,yes,yes,quarterly,need to think,2.2521463910729085
+0,8-10,Highly,Always,dirty,1-3,not always,no,half yearly,Yes,9.842191079436523
+0,8-10,Moderately,Always,clean,1-3,yes,sometimes,quarterly,Yes,2.3295930974903634
+0,4-7,Highly,Sometimes,not bad,4-7,yes,yes,annually,Yes,8.407521020430021
+0,8-10,Highly,Always,not bad,8-10,not always,yes,quarterly,need to think,4.9028967777299455
+0,4-7,Highly,Always,dirty,8-10,not always,yes,half yearly,Yes,9.34877896810898
+0,4-7,Highly,Always,not bad,8-10,no,yes,half yearly,Yes,3.100651804896477
+0,1-3,Highly,Always,not bad,8-10,no,no,quarterly,no,7.93929663708375
+0,8-10,Poorly,Sometimes,clean,1-3,yes,yes,annually,no,8.697627986878569
+0,1-3,Highly,Never,not bad,1-3,yes,yes,quarterly,need to think,1.0576320796379957
+0,4-7,Moderately,Always,not bad,8-10,yes,sometimes,quarterly,Yes,3.821603819418879
+0,1-3,Poorly,Never,dirty,4-7,not always,sometimes,half yearly,Yes,1.5713360898922264
+0,4-7,Poorly,Always,clean,1-3,not always,no,quarterly,no,9.860218066520174
+0,8-10,Highly,Sometimes,dirty,1-3,no,no,quarterly,no,4.281367552238446
+0,1-3,Highly,Never,not bad,8-10,yes,yes,annually,no,7.627900568089489
+0,1-3,Highly,Always,dirty,1-3,not always,no,half yearly,need to think,4.459774968018684
+0,1-3,Poorly,Sometimes,not bad,8-10,yes,yes,half yearly,no,9.364357241791984
+0,8-10,Highly,Sometimes,not bad,8-10,yes,no,quarterly,need to think,1.772791798549747
+0,8-10,Highly,Sometimes,clean,8-10,no,no,quarterly,Yes,4.042695531171926
+0,8-10,Moderately,Always,clean,1-3,no,no,quarterly,need to think,1.7496409948884766
+0,4-7,Highly,Always,dirty,8-10,no,sometimes,annually,Yes,7.007361977367999
+0,4-7,Poorly,Always,dirty,1-3,yes,yes,annually,Yes,5.092782095640021
+0,4-7,Moderately,Always,not bad,1-3,not always,yes,annually,Yes,4.830243304982399
+0,1-3,Poorly,Always,dirty,8-10,no,sometimes,quarterly,Yes,4.042254595014657
+0,8-10,Highly,Never,dirty,4-7,yes,yes,quarterly,Yes,5.295906691002165
+0,8-10,Poorly,Sometimes,not bad,1-3,not always,yes,quarterly,need to think,3.0494177958659088
+0,8-10,Poorly,Never,not bad,1-3,yes,sometimes,quarterly,Yes,8.329785159583636
+0,1-3,Poorly,Always,not bad,8-10,no,sometimes,quarterly,no,5.42590732364391
+0,8-10,Highly,Sometimes,dirty,4-7,yes,sometimes,half yearly,no,3.527082902880404
+0,8-10,Highly,Sometimes,clean,1-3,no,yes,half yearly,Yes,1.9662516465963953
+0,8-10,Poorly,Never,clean,8-10,not always,no,annually,Yes,4.133262233159444
+0,4-7,Moderately,Always,clean,1-3,no,no,quarterly,need to think,3.3856378918852186
+0,1-3,Moderately,Sometimes,dirty,8-10,not always,yes,half yearly,need to think,3.1158268892298686
+0,8-10,Moderately,Never,clean,4-7,not always,no,quarterly,no,6.380196474971012
+0,8-10,Moderately,Sometimes,not bad,1-3,not always,yes,quarterly,Yes,4.281049874140201
+0,1-3,Moderately,Never,clean,8-10,no,sometimes,quarterly,Yes,3.6311291656388076
+0,1-3,Highly,Always,dirty,4-7,yes,sometimes,annually,need to think,7.990257821252107
+0,1-3,Poorly,Always,dirty,1-3,yes,yes,annually,Yes,9.634258452892462
+0,4-7,Highly,Sometimes,dirty,8-10,yes,no,quarterly,Yes,4.981896859734788
+0,1-3,Moderately,Sometimes,not bad,8-10,no,sometimes,quarterly,no,4.75265542957323
+0,1-3,Moderately,Sometimes,dirty,8-10,yes,yes,half yearly,Yes,6.257751789678745
+0,8-10,Moderately,Always,dirty,1-3,no,yes,annually,Yes,5.871919644256557
+0,4-7,Highly,Never,not bad,8-10,yes,sometimes,half yearly,Yes,8.148816422753205
+0,8-10,Poorly,Always,dirty,4-7,no,no,half yearly,need to think,5.974370302544287
+0,8-10,Moderately,Sometimes,not bad,1-3,yes,sometimes,quarterly,no,6.137236654153314
+0,8-10,Poorly,Always,not bad,1-3,not always,no,quarterly,no,5.439014833731019
+0,8-10,Poorly,Never,dirty,4-7,not always,no,half yearly,Yes,9.569140327624307
+0,8-10,Highly,Never,not bad,4-7,no,sometimes,annually,need to think,6.964284161709216
+0,4-7,Poorly,Sometimes,dirty,1-3,no,sometimes,half yearly,Yes,8.93564151835482
+0,8-10,Highly,Sometimes,clean,4-7,yes,yes,quarterly,need to think,2.5072976149405743
+0,4-7,Highly,Never,dirty,1-3,no,yes,annually,no,4.3283365167831835
+0,4-7,Poorly,Always,dirty,4-7,yes,yes,annually,no,2.4893838787332006
+0,8-10,Moderately,Always,dirty,8-10,not always,sometimes,annually,need to think,8.479373682595346
+0,4-7,Poorly,Never,not bad,8-10,not always,sometimes,quarterly,no,5.657334808107147
+0,8-10,Highly,Sometimes,not bad,8-10,not always,yes,quarterly,Yes,5.417812082166825
+0,8-10,Moderately,Never,dirty,4-7,yes,sometimes,annually,need to think,6.63580599230383
+0,8-10,Highly,Never,not bad,8-10,yes,no,quarterly,need to think,9.957139771044865
+0,1-3,Highly,Sometimes,not bad,4-7,no,no,annually,need to think,1.9726753108372463
+0,8-10,Highly,Always,not bad,1-3,not always,no,quarterly,no,8.158885463792544
+0,8-10,Moderately,Never,not bad,8-10,yes,yes,annually,need to think,7.198525863437797
+0,4-7,Poorly,Sometimes,dirty,4-7,yes,no,quarterly,need to think,3.1841577616627137
+0,8-10,Poorly,Never,clean,4-7,yes,no,annually,no,3.7972514478753476
+0,8-10,Poorly,Always,clean,8-10,not always,yes,half yearly,no,6.934199584898924
+0,1-3,Poorly,Sometimes,clean,4-7,not always,yes,quarterly,no,2.8315212382249837
+0,4-7,Moderately,Always,clean,4-7,no,sometimes,annually,no,2.076071984783456
+0,8-10,Highly,Never,dirty,1-3,not always,sometimes,half yearly,need to think,5.340149715317967
+0,1-3,Highly,Never,dirty,8-10,not always,no,half yearly,Yes,7.722988533213116
+0,8-10,Highly,Always,not bad,8-10,no,no,half yearly,need to think,9.427161624201212
+0,4-7,Moderately,Sometimes,not bad,8-10,not always,sometimes,quarterly,no,2.1940306975783748
+0,4-7,Moderately,Always,dirty,4-7,yes,yes,half yearly,need to think,1.040160158386723
+0,1-3,Moderately,Never,dirty,4-7,not always,no,half yearly,need to think,9.906403367110276
+0,8-10,Highly,Always,dirty,1-3,yes,yes,annually,no,2.565482876057603
+0,8-10,Poorly,Always,not bad,8-10,yes,sometimes,quarterly,need to think,1.623187707824945
